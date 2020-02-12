@@ -1,5 +1,6 @@
 #### Git
 
+```javascript
 # This is Git's per-user configuration file.
 
 [user]
@@ -30,3 +31,8 @@ ca = commit --amend
 [core]
 editor = vim
 #pager = C:/cygwin64/bin/less.exe
+```
+
+```
+
+```
