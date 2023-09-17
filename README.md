@@ -5,7 +5,7 @@
 
 [user]
 name = Valentin Aleksandrov
-email = valentin.aleksandrov@tick42.com
+email = valentin805@gmail.com
 
 # Please adapt and uncomment the following lines:
 
